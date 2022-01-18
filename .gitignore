@@ -1,0 +1,21 @@
+# dotenv environment variable files
+.env*
+
+# gatsby files
+.cache/
+public
+
+# Dependency directories
+node_modules/
+
+# Yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Database
+database/images/
