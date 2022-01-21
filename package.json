@@ -2,9 +2,7 @@
   "name": "juliuszlioba-mailer",
   "packageManager": "yarn@3.1.1",
   "scripts": {
-    "start": "node ./src/mailer.js",
-    "start-other": "node ./src/mailer.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/mailer.js"
   },
   "dependencies": {
     "body-parser": "^1.19.1",
